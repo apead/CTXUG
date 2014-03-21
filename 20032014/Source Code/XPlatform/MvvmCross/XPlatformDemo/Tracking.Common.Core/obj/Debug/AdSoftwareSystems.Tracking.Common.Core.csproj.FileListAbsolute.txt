@@ -1,0 +1,38 @@
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.csprojResolveAssemblyReference.cache
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.csprojResolveAssemblyReference.cache
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.csprojResolveAssemblyReference.cache
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Common.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Common.Core\obj\Debug\AdSoftwareSystems.Tracking.Common.Core.csprojResolveAssemblyReference.cache

@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APEAD-WIN81-DEV</Machine>
+    <WindowsUser>Allan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>48B2DF025804617663894255ED31F3FD190E3CA4A7456E165B230ECA8E3DD35F</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>9c06062a-f106-4a27-9ed4-42c18a84da65_1.0.0.0_neutral__4k5me9q347z7p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>9c06062a-f106-4a27-9ed4-42c18a84da65_4k5me9q347z7p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>9c06062a-f106-4a27-9ed4-42c18a84da65</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Allan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-19T10:42:24.331</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe">
+      <PackagePath>AdSoftwareSystems.Tracking.Mobile.Store.exe</PackagePath>
+      <Modified>2014-03-19T10:42:23.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb">
+      <PackagePath>AdSoftwareSystems.Tracking.Mobile.Store.pdb</PackagePath>
+      <Modified>2014-03-19T10:42:23.743</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Core\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll">
+      <PackagePath>AdSoftwareSystems.Tracking.Mobile.Core.dll</PackagePath>
+      <Modified>2014-03-19T10:42:13.294</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\netcore45\Cirrious.CrossCore.dll">
+      <PackagePath>Cirrious.CrossCore.dll</PackagePath>
+      <Modified>2013-10-02T22:12:24.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\netcore45\Cirrious.CrossCore.WindowsStore.dll">
+      <PackagePath>Cirrious.CrossCore.WindowsStore.dll</PackagePath>
+      <Modified>2013-10-02T22:12:24.391</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.12\lib\netcore45\Cirrious.MvvmCross.dll">
+      <PackagePath>Cirrious.MvvmCross.dll</PackagePath>
+      <Modified>2013-10-02T22:12:24.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\packages\MvvmCross.HotTuna.CrossCore.3.0.12\lib\netcore45\Cirrious.MvvmCross.Localization.dll">
+      <PackagePath>Cirrious.MvvmCross.Localization.dll</PackagePath>
+      <Modified>2013-10-02T22:12:24.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\packages\MvvmCross.HotTuna.Plugin.Json.3.0.12\lib\netcore45\Cirrious.MvvmCross.Plugins.Json.dll">
+      <PackagePath>Cirrious.MvvmCross.Plugins.Json.dll</PackagePath>
+      <Modified>2013-10-16T15:20:19.786</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\packages\MvvmCross.HotTuna.MvvmCrossLibraries.3.0.12\lib\netcore45\Cirrious.MvvmCross.WindowsStore.dll">
+      <PackagePath>Cirrious.MvvmCross.WindowsStore.dll</PackagePath>
+      <Modified>2013-10-02T22:12:24.530</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\packages\Newtonsoft.Json.5.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-02-11T14:27:17.877</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll">
+      <PackagePath>AdSoftwareSystems.Tracking.Common.Core.dll</PackagePath>
+      <Modified>2014-03-19T10:01:43.533</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Core\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb">
+      <PackagePath>AdSoftwareSystems.Tracking.Mobile.Core.pdb</PackagePath>
+      <Modified>2014-03-19T10:42:13.270</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Core\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb">
+      <PackagePath>AdSoftwareSystems.Tracking.Common.Core.pdb</PackagePath>
+      <Modified>2014-03-19T10:01:43.504</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2013-10-16T15:20:19.311</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2013-10-16T15:20:19.314</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2013-10-16T15:20:19.310</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-16T15:20:19.281</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2013-10-16T15:20:19.378</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\ItemsPage.xaml">
+      <PackagePath>ItemsPage.xaml</PackagePath>
+      <Modified>2013-10-16T15:20:19.383</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\SplitPage.xaml">
+      <PackagePath>SplitPage.xaml</PackagePath>
+      <Modified>2013-10-16T15:20:19.388</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Views\SocialMediaView.xaml">
+      <PackagePath>Views\SocialMediaView.xaml</PackagePath>
+      <Modified>2013-10-16T15:20:19.394</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-19T10:42:24.170</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

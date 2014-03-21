@@ -1,0 +1,183 @@
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\resources.pri
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AppxManifest.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.build.appxrecipe
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.CrossCore.WindowsStore.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.WindowsStore.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.csprojResolveAssemblyReference.cache
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.g.i.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.g.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.g.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.g.i.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.g.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.g.i.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.g.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\FirstView.g.i.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\FirstView.g.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.g.i.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.g.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.xaml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.xaml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.xaml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.xaml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\FirstView.xaml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.xaml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.csproj.GenerateResource.Cache
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\priconfig.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\layout.resfiles
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\resources.resfiles
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\pri.resfiles
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\LanguageQualifiers.txt
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ProjectArchitectures.txt
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Newtonsoft.Json.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\resources.pri
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AppxManifest.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.build.appxrecipe
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.CrossCore.WindowsStore.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.WindowsStore.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.csprojResolveAssemblyReference.cache
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.g.i.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.g.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.g.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.g.i.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.g.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.g.i.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.g.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.g.i.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.g.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.xaml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.xaml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.xaml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.xaml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.xaml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.csproj.GenerateResource.Cache
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\priconfig.xml.intermediate
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\layout.resfiles.intermediate
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\resources.resfiles.intermediate
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\pri.resfiles.intermediate
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\priconfig.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\layout.resfiles
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\resources.resfiles
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\pri.resfiles
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\LanguageQualifiers.txt
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ProjectArchitectures.txt
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\resources.pri
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AppxManifest.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.build.appxrecipe
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.CrossCore.WindowsStore.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.WindowsStore.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Newtonsoft.Json.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\Newtonsoft.Json.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.csprojResolveAssemblyReference.cache
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.g.i.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.g.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.g.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.g.i.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.g.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.g.i.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.g.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.g.i.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.g.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\App.xaml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.xaml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ItemsPage.xaml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\SplitPage.xaml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.xaml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.csproj.GenerateResource.Cache
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\priconfig.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\layout.resfiles
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\resources.resfiles
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\pri.resfiles
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\LanguageQualifiers.txt
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\obj\Debug\ProjectArchitectures.txt
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\resources.pri
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AppxManifest.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Store.build.appxrecipe
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Cirrious.CrossCore.WindowsStore.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Cirrious.MvvmCross.WindowsStore.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Newtonsoft.Json.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\Newtonsoft.Json.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\App.g.i.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\App.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\ItemsPage.g.i.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\ItemsPage.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\SplitPage.g.i.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\SplitPage.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.g.i.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\App.xaml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\Common\StandardStyles.xaml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\ItemsPage.xaml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\SplitPage.xaml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\Views\SocialMediaView.xaml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.exe
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Store.csproj.GenerateResource.Cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\priconfig.xml.intermediate
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\layout.resfiles.intermediate
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\resources.resfiles.intermediate
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\pri.resfiles.intermediate
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\priconfig.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\layout.resfiles
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\resources.resfiles
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\pri.resfiles
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\LanguageQualifiers.txt
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Store\obj\Debug\ProjectArchitectures.txt

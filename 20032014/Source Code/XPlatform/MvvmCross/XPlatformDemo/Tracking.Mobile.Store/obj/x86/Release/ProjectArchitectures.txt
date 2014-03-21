@@ -1,0 +1,1 @@
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Store\AdSoftwareSystems.Tracking.Mobile.Store.csproj;x86

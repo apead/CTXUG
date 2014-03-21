@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APEAD-WIN81-DEV</Machine>
+    <WindowsUser>Allan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.exe">
+      <PackagePath>SocialMediaWindowsStore.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.pdb">
+      <PackagePath>SocialMediaWindowsStore.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\packages\Newtonsoft.Json.5.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaItemsPage.xaml">
+      <PackagePath>SocialMediaItemsPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

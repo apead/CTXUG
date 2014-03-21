@@ -1,0 +1,91 @@
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.exe
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.pdb
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\resources.pri
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\AppxManifest.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.build.appxrecipe
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\App.g.i.cs
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\App.g.cs
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\App.xaml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.exe
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.pdb
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\priconfig.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\layout.resfiles
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\resources.resfiles
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\pri.resfiles
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\LanguageQualifiers.txt
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\ProjectArchitectures.txt
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.g.i.cs
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.g.cs
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.xaml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.csprojResolveAssemblyReference.cache
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\priconfig.xml.intermediate
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\layout.resfiles.intermediate
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\resources.resfiles.intermediate
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\pri.resfiles.intermediate
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\SampleAndroid\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.csproj.GenerateResource.Cache
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.exe
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.pdb
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\resources.pri
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\AppxManifest.xml
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.build.appxrecipe
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\Newtonsoft.Json.dll
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\bin\Debug\Newtonsoft.Json.xml
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\App.g.i.cs
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\App.g.cs
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.g.cs
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.g.i.cs
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.g.cs
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\App.xaml
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.xaml
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.xaml
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.exe
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.pdb
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.csproj.GenerateResource.Cache
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\priconfig.xml.intermediate
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\layout.resfiles.intermediate
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\resources.resfiles.intermediate
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\pri.resfiles.intermediate
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\priconfig.xml
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\layout.resfiles
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\resources.resfiles
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\pri.resfiles
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\LanguageQualifiers.txt
+C:\Work\Temp for MS\JSonAndroidApplication\SocialMediaWindowsStore\obj\Debug\ProjectArchitectures.txt
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.exe
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.pdb
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\resources.pri
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\AppxManifest.xml
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.build.appxrecipe
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\Newtonsoft.Json.dll
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\Newtonsoft.Json.xml
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\App.g.i.cs
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\App.g.cs
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.g.cs
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.g.i.cs
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.g.cs
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\XamlTypeInfo.g.cs
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\App.xaml
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\Common\StandardStyles.xaml
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaItemsPage.xaml
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.exe
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.pdb
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\SocialMediaWindowsStore.csproj.GenerateResource.Cache
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\priconfig.xml
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\layout.resfiles
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\resources.resfiles
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\pri.resfiles
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\LanguageQualifiers.txt
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\ProjectArchitectures.txt
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\priconfig.xml.intermediate
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\layout.resfiles.intermediate
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\resources.resfiles.intermediate
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\obj\Debug\pri.resfiles.intermediate

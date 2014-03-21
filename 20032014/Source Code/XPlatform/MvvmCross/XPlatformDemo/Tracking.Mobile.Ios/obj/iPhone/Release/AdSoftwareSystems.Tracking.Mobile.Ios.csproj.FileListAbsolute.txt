@@ -1,0 +1,3 @@
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Ios\bin\iPhone\Release\AdSoftwareSystemsTrackingMobileIos.exe
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Ios\obj\iPhone\Release\AdSoftwareSystems.Tracking.Mobile.Ios.csprojResolveAssemblyReference.cache
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Ios\obj\iPhone\Release\AdSoftwareSystemsTrackingMobileIos.exe

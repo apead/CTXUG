@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>APEAD-WIN81-DEV</Machine>
+    <WindowsUser>Allan</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E236869446435CF7FFA9957E46D9C823A6D4095CEB074B27FB6104D592C3A484</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>4479885e-48d4-4da3-bd0f-838d4b159775_1.0.0.0_neutral__4k5me9q347z7p</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>4479885e-48d4-4da3-bd0f-838d4b159775_4k5me9q347z7p!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>4479885e-48d4-4da3-bd0f-838d4b159775</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Allan</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-03-20T13:44:48.725</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.exe">
+      <PackagePath>SocialMediaWindowsStore.exe</PackagePath>
+      <Modified>2014-03-20T13:44:48.550</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaWindowsStore.pdb">
+      <PackagePath>SocialMediaWindowsStore.pdb</PackagePath>
+      <Modified>2014-03-20T13:44:48.528</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\packages\Newtonsoft.Json.5.0.8\lib\netcore45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-01-30T09:36:11.229</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2013-10-02T12:20:17.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\SocialMediaItemsPage.xaml">
+      <PackagePath>SocialMediaItemsPage.xaml</PackagePath>
+      <Modified>2014-01-30T09:39:32.885</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaWindowsStore\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-03-20T13:44:48.677</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

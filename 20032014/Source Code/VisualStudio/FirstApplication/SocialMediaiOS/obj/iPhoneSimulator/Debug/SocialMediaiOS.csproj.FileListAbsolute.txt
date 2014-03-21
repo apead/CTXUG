@@ -1,0 +1,8 @@
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaiOS\bin\iPhoneSimulator\Debug\SocialMediaiOS.exe
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaiOS\bin\iPhoneSimulator\Debug\SocialMediaiOS.pdb
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaiOS\obj\iPhoneSimulator\Debug\SocialMediaiOS.exe
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaiOS\obj\iPhoneSimulator\Debug\SocialMediaiOS.pdb
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaiOS\bin\iPhoneSimulator\Debug\AlertCenter.IOS.dll
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaiOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.dll
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaiOS\bin\iPhoneSimulator\Debug\Newtonsoft.Json.xml
+C:\Work\projects\ctxug\20032014\VisualStudio\FirstApplication\SocialMediaiOS\obj\iPhoneSimulator\Debug\SocialMediaiOS.csprojResolveAssemblyReference.cache

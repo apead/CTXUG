@@ -1,0 +1,7 @@
+/home/apead/Projects/AdSoftwareSystems.XPlatform/AdSoftwareSystems.XPlatform/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/apead/Projects/AdSoftwareSystems.XPlatform/AdSoftwareSystems.XPlatform/obj/x86/Debug/AdSoftwareSystems.XPlatform.gtk-gui.gui.stetic
+/home/apead/Projects/AdSoftwareSystems.XPlatform/AdSoftwareSystems.XPlatform/bin/Debug/AdSoftwareSystems.XPlatform.exe.mdb
+/home/apead/Projects/AdSoftwareSystems.XPlatform/AdSoftwareSystems.XPlatform/bin/Debug/AdSoftwareSystems.XPlatform.exe
+/home/apead/Projects/AdSoftwareSystems.XPlatform/AdSoftwareSystems.XPlatform/obj/x86/Debug/AdSoftwareSystems.XPlatform.exe
+/home/apead/Projects/AdSoftwareSystems.XPlatform/AdSoftwareSystems.XPlatform/obj/x86/Debug/AdSoftwareSystems.XPlatform.exe.mdb
+/home/apead/Projects/AdSoftwareSystems.XPlatform/AdSoftwareSystems.XPlatform/bin/Debug/Newtonsoft.Json.dll

@@ -1,0 +1,13 @@
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.csprojResolveAssemblyReference.cache

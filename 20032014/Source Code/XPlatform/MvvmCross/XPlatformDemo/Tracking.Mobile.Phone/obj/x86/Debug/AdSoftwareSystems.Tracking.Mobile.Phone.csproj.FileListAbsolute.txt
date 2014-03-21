@@ -1,0 +1,138 @@
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll.config
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AppManifest.xaml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone_Debug_x86.xap
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.CrossCore.WindowsPhone.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Visibility.WindowsPhone.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.WindowsPhone.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Newtonsoft.Json.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\Newtonsoft.Json.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\System.Windows.Interactivity.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\App.g.cs
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\Views\SocialMediaView.g.cs
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.g.resources
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.Resources.AppResources.resources
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.csproj.GenerateResource.Cache
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Phone\obj\x86\Debug\XapCacheFile.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll.config
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AppManifest.xaml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone_Debug_x86.xap
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.CrossCore.WindowsPhone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Visibility.WindowsPhone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.WindowsPhone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Newtonsoft.Json.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Newtonsoft.Json.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\System.Windows.Interactivity.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\App.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\Views\SocialMediaView.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.g.resources
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.Resources.AppResources.resources
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.csproj.GenerateResource.Cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\XapCacheFile.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\ApplicationIcon.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll.config
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AppManifest.xaml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Properties\WMAppManifest.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone_Debug_x86.xap
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.CrossCore.WindowsPhone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.Plugins.Visibility.WindowsPhone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Cirrious.MvvmCross.WindowsPhone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Newtonsoft.Json.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\System.Windows.Interactivity.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\Newtonsoft.Json.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\System.Windows.Interactivity.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\Bin\x86\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\App.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\Views\SocialMediaView.g.cs
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.g.resources
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.Resources.AppResources.resources
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.csproj.GenerateResource.Cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\AdSoftwareSystems.Tracking.Mobile.Phone.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Phone\obj\x86\Debug\XapCacheFile.xml

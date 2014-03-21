@@ -1,0 +1,262 @@
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.mdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo.apk
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo-Signed.apk
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.Droid.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Net.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Windows.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Xml.Serialization.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll.mdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.csprojResolveAssemblyReference.cache
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\android\bin\AdSoftSystems.XPlatformDemo.apk
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\splashscreen.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\firstview.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\item_media.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\socialmediaview.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\main.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\strings.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\drawable\icon.png
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\splashstyle.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\drawable\splash.png
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\R.cs.flag
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\uploadflags.txt
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.mdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo.apk
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo-Signed.apk
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.Droid.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Net.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Windows.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Xml.Serialization.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll.mdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.csprojResolveAssemblyReference.cache
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\android\bin\AdSoftSystems.XPlatformDemo.apk
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\splashscreen.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\firstview.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\item_media.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\socialmediaview.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\main.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\strings.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\drawable\icon.png
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\splashstyle.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\drawable\splash.png
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\R.cs.flag
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\uploadflags.txt
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.config
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.mdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo.apk
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo-Signed.apk
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.Droid.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Net.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Windows.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Xml.Serialization.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll.mdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.csprojResolveAssemblyReference.cache
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\android\bin\AdSoftSystems.XPlatformDemo.apk
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\splashscreen.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\firstview.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\item_media.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\socialmediaview.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\main.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\strings.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\drawable\icon.png
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\splashstyle.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\drawable\splash.png
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\R.cs.flag
+C:\Work\ADSS Live Xamarin Coding Demos\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\uploadflags.txt
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.config
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.mdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo.apk
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo-Signed.apk
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.Droid.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Net.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Windows.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\System.Xml.Serialization.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll.mdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\android\bin\AdSoftSystems.XPlatformDemo.apk
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\splashscreen.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\firstview.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\item_media.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\socialmediaview.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\layout\main.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\strings.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\drawable\icon.png
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\splashstyle.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\res\drawable\splash.png
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\R.cs.flag
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Tracking.Mobile.Android\obj\Debug\uploadflags.txt
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.config
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.mdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo.apk
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo-Signed.apk
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\System.Net.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\System.Windows.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\System.Xml.Serialization.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll.mdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\android\bin\AdSoftSystems.XPlatformDemo.apk
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\splashscreen.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\firstview.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\item_media.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\socialmediaview.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\main.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\values\strings.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\drawable\icon.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\values\splashstyle.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\drawable\splash.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\R.cs.flag
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Tracking.Mobile.Android\obj\Debug\uploadflags.txt
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.config
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll.mdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo.apk
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftSystems.XPlatformDemo-Signed.apk
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.CrossCore.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Binding.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Localization.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.DownloadCache.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.File.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Json.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\Cirrious.MvvmCross.Plugins.Visibility.Droid.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\System.Net.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\System.Windows.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\System.Xml.Serialization.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Mobile.Core.dll.mdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\bin\Debug\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\AdSoftwareSystems.Tracking.Mobile.Android.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\android\bin\AdSoftSystems.XPlatformDemo.apk
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\splashscreen.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\firstview.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\item_media.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\socialmediaview.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\layout\main.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\values\strings.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\drawable\icon.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\values\splashstyle.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\values\mvxbindingattributes.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\res\drawable\splash.png
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\R.cs.flag
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Tracking.Mobile.Android\obj\Debug\uploadflags.txt

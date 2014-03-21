@@ -1,0 +1,23 @@
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftSystems.Common.Core.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\AdSoftwareSystems.Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Common.Core\obj\Debug\AdSoftSystems.Common.Core.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Common.Core\bin\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Common.Core\obj\Debug\AdSoftwareSystems.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Common.Core\obj\Debug\AdSoftSystems.Common.Core.csprojResolveAssemblyReference.cache

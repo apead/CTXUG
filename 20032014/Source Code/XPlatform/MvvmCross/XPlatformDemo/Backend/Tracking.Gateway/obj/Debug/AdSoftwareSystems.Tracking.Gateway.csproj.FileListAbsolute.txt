@@ -1,0 +1,264 @@
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.pdb
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.pdb
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.xml
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\AdSoftwareSystems.Tracking.Gateway.csprojResolveAssemblyReference.cache
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.xml
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\AdSoftwareSystems.Tracking.Gateway.csprojResolveAssemblyReference.cache
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\AdSoftwareSystems.Tracking.Gateway.csprojResolveAssemblyReference.cache
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Social.Common.Core.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Social.Implementation.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Social.Common.Core.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Social.Implementation.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Social.Services.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Social.Services.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.pdb
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.xml
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\AdSoftwareSystems.Tracking.Gateway.csprojResolveAssemblyReference.cache
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.dll
+C:\Work\Temp for MS\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\SocialMediaWebApiDemo.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Abstractions.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Raven.Client.Lightweight.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Microsoft.Web.Infrastructure.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Net.Http.Formatting.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Helpers.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Http.WebHost.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Mvc.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.Razor.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Deployment.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\System.Web.WebPages.Razor.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.pdb
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\bin\Thinktecture.IdentityModel.xml
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\AdSoftwareSystems.Tracking.Gateway.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.dll
+C:\Work\projects\ctxug\ReferenceProjects\20 March 2014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\SocialMediaWebApiDemo.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\SocialMediaWebApiDemo.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Abstractions.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Client.Lightweight.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Net.Http.Formatting.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Helpers.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Http.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Http.WebHost.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Mvc.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Razor.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.Deployment.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.Razor.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Thinktecture.IdentityModel.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Abstractions.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Abstractions.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Client.Lightweight.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Client.Lightweight.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Microsoft.Web.Infrastructure.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Net.Http.Formatting.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Helpers.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Http.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Http.WebHost.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Mvc.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Razor.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.Deployment.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.Razor.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Thinktecture.IdentityModel.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\bin\Thinktecture.IdentityModel.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\obj\Debug\AdSoftwareSystems.Tracking.Gateway.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\SocialMediaWebApiDemo.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\SocialMediaWebApiDemo.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Microsoft.Web.Infrastructure.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Abstractions.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Client.Lightweight.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Net.Http.Formatting.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Helpers.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Http.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Http.WebHost.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Mvc.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Razor.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.Deployment.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.Razor.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Thinktecture.IdentityModel.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\AdSoftwareSystems.Tracking.Common.Core.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Abstractions.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Abstractions.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Client.Lightweight.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Raven.Client.Lightweight.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Microsoft.Web.Infrastructure.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Net.Http.Formatting.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Helpers.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Http.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Http.WebHost.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Mvc.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.Razor.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.Deployment.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\System.Web.WebPages.Razor.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Thinktecture.IdentityModel.pdb
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\bin\Thinktecture.IdentityModel.xml
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\obj\Debug\AdSoftwareSystems.Tracking.Gateway.csprojResolveAssemblyReference.cache
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.dll
+C:\Work\projects\ctxug\20032014\XPlatform\MvvmCross\XPlatformDemo\Backend\Tracking.Gateway\obj\Debug\SocialMediaWebApiDemo.pdb

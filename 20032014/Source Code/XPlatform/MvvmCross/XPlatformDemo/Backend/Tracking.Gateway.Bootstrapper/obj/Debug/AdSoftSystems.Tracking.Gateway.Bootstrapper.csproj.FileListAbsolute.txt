@@ -1,0 +1,12 @@
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\bin\Debug\AdSoftSystems.Bootstrapper.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\bin\Debug\AdSoftSystems.Bootstrapper.pdb
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\obj\Debug\AdSoftSystems.Bootstrapper.dll
+C:\Users\Allan\SkyDrive\Xamarin\Samples\Demo\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\obj\Debug\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\bin\Debug\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\bin\Debug\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\obj\Debug\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\obj\Debug\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\bin\Debug\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\bin\Debug\AdSoftSystems.Bootstrapper.pdb
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\obj\Debug\AdSoftSystems.Bootstrapper.dll
+C:\Work\projects\reference-projects\Xamarin\XPlatformDemo\AdSoftwareSystems.XPlatformDemo\Backend\AdSoftwareSystems.Tracking.Gateway.Bootstrapper\obj\Debug\AdSoftSystems.Bootstrapper.pdb

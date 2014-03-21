@@ -1,0 +1,17 @@
+﻿<Deployment xmlns="http://schemas.microsoft.com/client/2007/deployment" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" EntryPointAssembly="AdSoftwareSystems.Tracking.Mobile.Phone" EntryPointType="AdSoftwareSystems.Tracking.Mobile.Phone.App" RuntimeVersion="4.7.50308.0">
+  <Deployment.Parts>
+    <AssemblyPart x:Name="AdSoftwareSystems.Tracking.Mobile.Phone" Source="AdSoftwareSystems.Tracking.Mobile.Phone.dll" />
+    <AssemblyPart x:Name="AdSoftwareSystems.Tracking.Mobile.Core" Source="AdSoftwareSystems.Tracking.Mobile.Core.dll" />
+    <AssemblyPart x:Name="Cirrious.CrossCore" Source="Cirrious.CrossCore.dll" />
+    <AssemblyPart x:Name="Cirrious.CrossCore.WindowsPhone" Source="Cirrious.CrossCore.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Cirrious.MvvmCross" Source="Cirrious.MvvmCross.dll" />
+    <AssemblyPart x:Name="Cirrious.MvvmCross.Localization" Source="Cirrious.MvvmCross.Localization.dll" />
+    <AssemblyPart x:Name="Cirrious.MvvmCross.Plugins.Json" Source="Cirrious.MvvmCross.Plugins.Json.dll" />
+    <AssemblyPart x:Name="Cirrious.MvvmCross.Plugins.Visibility" Source="Cirrious.MvvmCross.Plugins.Visibility.dll" />
+    <AssemblyPart x:Name="Cirrious.MvvmCross.Plugins.Visibility.WindowsPhone" Source="Cirrious.MvvmCross.Plugins.Visibility.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Cirrious.MvvmCross.WindowsPhone" Source="Cirrious.MvvmCross.WindowsPhone.dll" />
+    <AssemblyPart x:Name="Newtonsoft.Json" Source="Newtonsoft.Json.dll" />
+    <AssemblyPart x:Name="AdSoftwareSystems.Tracking.Common.Core" Source="AdSoftwareSystems.Tracking.Common.Core.dll" />
+    <AssemblyPart x:Name="System.Windows.Interactivity" Source="System.Windows.Interactivity.dll" />
+  </Deployment.Parts>
+</Deployment>
