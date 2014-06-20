@@ -1,0 +1,62 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FancyPhoto", "FancyPhoto\FancyPhoto.csproj", "{D5DCDECD-059D-4473-99B8-A63FD0B304FE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoImageSizer", "AutoImageSizer\AutoImageSizer.csproj", "{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Ad-Hoc|iPhoneSimulator.Deploy.0 = Ad-Hoc|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.AppStore|iPhoneSimulator.Deploy.0 = AppStore|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Debug|iPhoneSimulator.Deploy.0 = Debug|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Release|iPhone.Build.0 = Release|iPhone
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D5DCDECD-059D-4473-99B8-A63FD0B304FE}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Ad-Hoc|iPhone.ActiveCfg = Release|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Ad-Hoc|iPhone.Build.0 = Release|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.AppStore|iPhone.ActiveCfg = Release|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.AppStore|iPhone.Build.0 = Release|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.AppStore|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Release|iPhone.Build.0 = Release|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{7DEF6398-7A44-4C70-A42C-3DA3295C4D99}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = FancyPhoto\FancyPhoto.csproj
+	EndGlobalSection
+EndGlobal

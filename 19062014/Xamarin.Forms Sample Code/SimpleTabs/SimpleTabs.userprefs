@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.IPhoneRetina4.7.1" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleTabs/Pages/LoginPage.cs">
+    <Files>
+      <File FileName="SimpleTabs/App.cs" Line="10" Column="47" />
+      <File FileName="SimpleTabs/Pages/LoginPage.cs" Line="10" Column="25" />
+      <File FileName="SimpleTabs/ViewModels/LoginViewModel.cs" Line="1" Column="1" />
+      <File FileName="SimpleTabs/Pages/HomePage.cs" Line="38" Column="58" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
