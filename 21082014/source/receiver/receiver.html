@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style type="text/css">
+          body {
+            overflow:hidden;
+          }
+      div{
+            height:720PX;
+            width:1280PX;
+            text-align:center;
+            border:0px solid silver;
+            display: table-cell;
+            vertical-align:middle;
+            color:#FFFFFF;
+            background-color:#000000;
+            font-weight:bold;
+            font-family:Verdana, Geneva, sans-serif;
+            font-size:40px;
+        }
+    </style>
+    <title>ChromeCast CustomReceiver Message Broadcast</title>
+  </head>
+  <body>
+        <DIV id="message">Awaiting Message... </DIV>
+    <script type="text/javascript" src="//www.gstatic.com/cast/sdk/libs/receiver/2.0.0/cast_receiver.js"></script>
+    <script type="text/javascript">
+      window.onload = function() {
+        cast.receiver.logger.setLevelValue(0);
+        window.castReceiverManager = cast.receiver.CastReceiverManager.getInstance();
+        console.log('Starting Receiver Manager');
+        
+        castReceiverManager.onReady = function(event) {
+          console.log('Received Ready event: ' + JSON.stringify(event.data));
+          window.castReceiverManager.setApplicationState("Application status is ready...");
+        };
+        
+        castReceiverManager.onSenderConnected = function(event) {
+          console.log('Received Sender Connected event: ' + event.data);
+          console.log(window.castReceiverManager.getSender(event.data).userAgent);
+        };
+        
+        castReceiverManager.onSenderDisconnected = function(event) {
+          console.log('Received Sender Disconnected event: ' + event.data);
+          if (window.castReceiverManager.getSenders().length == 0) {
+                window.close();
+              }
+        };
+        
+        window.messageBus =
+          window.castReceiverManager.getCastMessageBus(
+              'urn:x-cast:com.your-company.CastCustomReceiverDemo.Ios');
+
+        // Receive message on the message bus
+        window.messageBus.onMessage = function(event) {
+          console.log('Message [' + event.senderId + ']: ' + event.data);
+
+          showMessage(event.data);
+
+        //Echo Message
+          window.messageBus.send(event.senderId, event.data);
+        }
+
+        window.castReceiverManager.start({statusText: "Application is starting"});
+        console.log('Receiver Manager started');
+      };
+      
+      function showMessage(text) {
+        console.log(text);
+        document.getElementById("message").innerHTML=text;
+        window.castReceiverManager.setApplicationState(text);
+      };
+    </script>
+  </body>
+</html>
