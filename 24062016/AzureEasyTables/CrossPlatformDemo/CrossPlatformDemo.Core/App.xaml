@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Application xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatformDemo.Core.App">
+
+  <Application.Resources>
+    <ResourceDictionary>
+      <Style x:Key="DetailHeadingLabelStyle" TargetType="Label">
+        <Setter Property="TextColor" Value="Silver" />
+        <Setter Property="FontAttributes" Value="Bold" />
+        <Setter Property="VerticalOptions" Value="Center"/>
+        <Setter Property="FontSize">
+          <OnPlatform x:TypeArguments="x:Double">
+            <OnPlatform.WinPhone>10</OnPlatform.WinPhone>
+            <OnPlatform.Android>12</OnPlatform.Android>
+            <OnPlatform.iOS>12</OnPlatform.iOS>
+          </OnPlatform>
+        </Setter>
+      </Style>
+
+      <Style x:Key="DetailLabelStyle" TargetType="Label">
+        <Setter Property="TextColor" Value="Black" />
+        <Setter Property="FontAttributes" Value="None" />
+        <Setter Property="VerticalOptions" Value="Center"/>
+        <Setter Property="FontSize">
+          <OnPlatform x:TypeArguments="x:Double">
+            <OnPlatform.WinPhone>18</OnPlatform.WinPhone>
+            <OnPlatform.Android>18</OnPlatform.Android>
+            <OnPlatform.iOS>18</OnPlatform.iOS>
+          </OnPlatform>
+        </Setter>
+      </Style>      
+    </ResourceDictionary>
+  </Application.Resources>
+</Application>

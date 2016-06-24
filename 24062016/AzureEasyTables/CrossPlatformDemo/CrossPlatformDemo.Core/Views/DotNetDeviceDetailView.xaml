@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="CrossPlatformDemo.Core.Views.DotNetDeviceDetailView" Title="{Binding Title}">
+
+  <ScrollView>
+    <StackLayout Orientation="Vertical">
+      <Image Source="{Binding LogoUrl}" HeightRequest="160"/>
+      <Grid Padding="16,5" RowSpacing="40">
+    <Grid.RowDefinitions>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+      <RowDefinition Height="Auto"/>
+    </Grid.RowDefinitions>
+
+    
+    <StackLayout Grid.Row="0" Orientation="Vertical">
+      <Label Text="Device Name"  Style="{StaticResource DetailHeadingLabelStyle}"/>
+      <Label Text="{Binding DeviceName}" Style="{StaticResource DetailLabelStyle}"/>
+    </StackLayout>
+   
+    <StackLayout Grid.Row="1" Orientation="Vertical">
+      <Label Text="Description" Style="{StaticResource DetailHeadingLabelStyle}"/>
+      <Label  Text="{Binding Description}" Style="{StaticResource DetailLabelStyle}"/>
+    </StackLayout>
+    <StackLayout Grid.Row="2" Orientation="Vertical">
+      <Label Text="Image" Style="{StaticResource DetailHeadingLabelStyle}"/>
+      <Image Source="{Binding ImageUrl}" />
+    </StackLayout>
+
+    <StackLayout Grid.Row="3" Orientation="Vertical">
+      <Label  Text="Website" Style="{StaticResource DetailHeadingLabelStyle}"/>
+      <Label Text="{Binding WebsiteUrl}" Style="{StaticResource DetailLabelStyle}"/>
+    </StackLayout>
+  </Grid>
+    </StackLayout>
+  </ScrollView>
+</ContentPage>

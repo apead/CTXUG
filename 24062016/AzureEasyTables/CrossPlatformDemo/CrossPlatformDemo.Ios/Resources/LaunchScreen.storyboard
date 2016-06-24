@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="6245" systemVersion="13F34" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" initialViewController="X5k-f2-b5h">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6238"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="gAE-YM-kbH">
+            <objects>
+                <viewController id="X5k-f2-b5h" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Y8P-hJ-Z43"/>
+                        <viewControllerLayoutGuide type="bottom" id="9ZL-r4-8FZ"/>
+                    </layoutGuides>
+                    <imageView userInteractionEnabled="NO" contentMode="scaleToFill" id="83" translatesAutoresizingMaskIntoConstraints="NO" key="view" image="Default.png">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                    </imageView>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="XAI-xm-WK6" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="349" y="339"/>
+        </scene>
+    </scenes>
+    <resources>
+        <image name="Icon-60.png" width="180" height="180"/>
+        <image name="bcconnected.png" width="30" height="24"/>
+        <image name="bcdisconnected.png" width="30" height="24"/>
+        <image name="cancel.png" width="25" height="25"/>
+        <image name="Default-568h.png" width="640" height="1136"/>
+        <image name="Default-Portrait.png" width="768" height="1004"/>
+        <image name="Default.png" width="320" height="480"/>
+        <image name="download.png" width="24" height="24"/>
+        <image name="next.png" width="24" height="24"/>
+        <image name="previous.png" width="24" height="24"/>
+        <image name="refresh.png" width="25" height="25"/>
+        <image name="sagetext.png" width="516" height="250"/>
+        <image name="save.png" width="25" height="25"/>
+        <image name="search.png" width="25" height="25"/>
+        <image name="settings.png" width="25" height="25"/>
+        <image name="toplogo.png" width="200" height="99"/>
+        <image name="upload.png" width="24" height="24"/>
+        <image name="Icon-72.png" width="144" height="144"/>
+        <image name="Icon.png" width="114" height="114"/>
+        <image name="Icon-Small.png" width="87" height="87"/>
+        <image name="Icon-76.png" width="152" height="152"/>
+        <image name="Icon-Small-40.png" width="120" height="120"/>
+    </resources>
+    <simulatedMetricsContainer key="defaultSimulatedMetrics">
+        <simulatedScreenMetrics key="destination" type="retina47"/>
+    </simulatedMetricsContainer>
+</document>
