@@ -29,6 +29,10 @@
             <OnPlatform.iOS>18</OnPlatform.iOS>
           </OnPlatform>
         </Setter>
+      </Style>
+
+      <Style x:Key="PageStyle" TargetType="ContentPage">
+        <Setter Property="BackgroundColor" Value="White" />
       </Style>      
     </ResourceDictionary>
   </Application.Resources>
