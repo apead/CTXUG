@@ -5,7 +5,7 @@
 	<key>CFBundleDisplayName</key>
 	<string>Where is .NET?</string>
 	<key>CFBundleIdentifier</key>
-	<string>com.companyname.CrossPlatformDemo.Ios</string>
+	<string>za.co.ctxug.CrossPlatformDemo.Ios</string>
 	<key>CFBundleShortVersionString</key>
 	<string>1.0</string>
 	<key>CFBundleVersion</key>
@@ -46,6 +46,8 @@
 		<string>Default.png</string>
 		<string>Default@2x.png</string>
 		<string>Default-568h@2x.png</string>
+		<string>Default-Portrait~ipad.png</string>
+		<string>Default-Portrait@2x~ipad.png</string>
 	</array>
 </dict>
 </plist>
